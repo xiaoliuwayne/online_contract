@@ -1,0 +1,36 @@
+
+.my-step-title{
+  margin: 10% 0 5% 0;
+  font-family: DIN Next LT Pro Medium;
+  font-size: 18px;
+  color: #212121;
+}
+.must-label{
+  color: #ff1e57
+}
+p{
+  font-size: 16px;
+  font-weight: bolder;
+  padding-top: 30px;
+  color: #212121;
+}
+.next-btn{
+  height: 44px;
+  width: 110px;
+  margin-top: 10px;
+}
+
+.previous-btn{
+  height: 44px;
+  width: 110px;
+  margin-top: 10px;
+  color: #9C9C9C;
+  /*border-color: #E6E8ED;*/
+}
+
+.item-title{
+  font-size: 12px;
+  padding-top: 10px;
+  font-weight: normal;
+  color: #212121;
+}
